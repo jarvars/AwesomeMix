@@ -9,7 +9,10 @@ Galaxy sounds better with:
 
 ## Palette
 
-
+Palette      | Hex       | RGB           | HSL             |  
+---          | ---       | ---           | ---             |
+Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  |
+Red          | `#EA3950` | `234 57 88`   | `0° 100% 67%`   |
 
 ![palette](imagen de origen de cada color)
 
